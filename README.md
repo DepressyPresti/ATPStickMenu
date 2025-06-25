@@ -1,4 +1,4 @@
-# 🪵 StickMenu – Bedrock UI extension for the AdvancedTeleport plugin
+# 🪵 StickMenu
 
 **Stick Menu** is a lightweight plugin that lets Bedrock players open the ATP UIs from one place 🪄  
 It works by extending the built-in Bedrock forms from the [Advanced Teleport](https://www.spigotmc.org/resources/advanced-teleport.64139/) plugin — making menus more accessible to console and mobile players
