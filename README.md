@@ -1,13 +1,12 @@
-# 🪵 Stick Menu – Bedrock-Friendly UI Menu Plugin for Spigot
+# 🪵 StickMenu – Bedrock UI extension for the AdvancedTeleport plugin
 
-**Stick Menu** is a lightweight Spigot plugin that lets Bedrock players open a UI menu just by right-clicking a stick 🪄  
-It works by extending the built-in Bedrock forms from the [Advanced Teleport](https://www.spigotmc.org/resources/advanced-teleport.64139/) plugin — making menus more fun, more intuitive, and fully Bedrock-friendly 🎮
-
+**Stick Menu** is a lightweight plugin that lets Bedrock players open the ATP UIs from one place 🪄  
+It works by extending the built-in Bedrock forms from the [Advanced Teleport](https://www.spigotmc.org/resources/advanced-teleport.64139/) plugin — making menus more accessible to console and mobile players
 ## 🧩 What It Does
 
-- 🖱️ Right-click with a stick → opens a form UI
+- 🖱️ Right-click with a stick → opens a UI
 - 🎮 Only works for Bedrock players (Java players won’t see anything)
-- 🔗 Integrates with **Advanced Teleport** for UI handling
+- 🔗 Integrates with **Advanced Teleport** for UI handling and teleportation
 
 ## ✅ Requirements
 
